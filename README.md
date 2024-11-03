@@ -1,3 +1,11 @@
+> **Note:** This repository contains only the APK file, as the full project is now privately maintained and actively used for both patient care and academic research.
+
+
+> **WARNING:** Don't use alpha build for demo.
+
+---
+
+
 # VR-Based Guided Exercise System for Individuals with Locomotor Disabilities 🥽
 
 This repository showcases a Virtual Reality (VR) application specifically designed to assist individuals with locomotor disabilities in performing guided physical exercises via VR devices. Developed with a focus on Oculus products, the project was created in collaboration with certified physicians from the School of Physiology at DY Patil University, offering a truly immersive experience that adapts therapeutic exercises to meet the needs of users with limited mobility.
@@ -21,6 +29,4 @@ Download the latest APK directly from this repository to explore the demo and se
 
 Special thanks to the certified physicians at DY Patil University’s School of Physiology, as well as the Head of IT at RAIT, for their invaluable contributions, ongoing support in real-world applications, and for making this project possible through dedicated resources.
 
----
 
-> **Note:** This repository contains only the APK file, as the full project is now privately maintained and actively used for both patient care and academic research.
